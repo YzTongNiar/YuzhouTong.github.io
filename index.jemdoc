@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+==Ruizhe Wang
+
+~~~
+{}{img_left}{123.jpg}{alt text}{270}{180}{https://unreal2fk.github.io/RuizheWang.github.io/}
+Senior Undergraduate Student,\n
+[https://sse.cuhk.edu.cn/ School of Science and Engineering], \n
+[https://www.cuhk.edu.cn/ The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)]\n
+2001 Longxiang Blvd, Longgang District, Shenzhen \n 
+E-mail: [ruizhewang@link.cuhk.edu.cn]
+~~~
+
+== About me
+I am Ruizhe Wang, a senior undergraduate student from [https://www.cuhk.edu.cn/ the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)]. My major is Electonic Information Engineering. 
+
+I am currently a research assistant at the [https://shhyang.github.io/nclab/ Network Coding Lab] at CUHK-Shenzhen (supervisor: Prof. [https://shhyang.github.io/ Shenghao Yang]). I have done an research intern at the Wireless Network Research Department, [https://www.huawei.com/en/ Huawei Technologies] from June 2021 to August 2021. In addition, I have accumulated some teaching experience as an undergraduate student teaching fellow (USTF) in the [https://sse.cuhk.edu.cn/ School of Science and Engineering] for 5 semesters.
+
+I am seeking for a PhD position in information theory\/federated learning starting in the 2022 fall. A brief CV is available [cv.pdf here].
+
+== Research Interests
+My main research interest lies in information theory and federated learning. More specific interests include:
+- Coding theory and its applications (currently I am working on a paper about streaming codes)
+- Security issues of federated learning (here is a [report.pdf report] I wrote about distributed backdoor attack to federated learning in my independent study program)
