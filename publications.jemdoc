@@ -4,34 +4,27 @@
 = Publications
 * indicates equal contribution
 ~~~
-{}{img_left}{ICCC2023.jpg}{paper}{200}{100}
+{}{img_left}{ICCC2023.png}{paper}{200}{100}
 Rate Adaptation with Correlated Multi-Armed Bandits in 802.11 Systems \n
-~
-*Yuzhou Tong**, Jiakun Fan*, Xuhong Cai, Yi Chen
-the 12th IEEE/CIC International Conference on Communications in China (ICCC 2023)
+*Yuzhou Tong*, Jiakun Fan, Xuhong Cai, Yi Chen \n
+the 12th IEEE/CIC International Conference on Communications in China (ICCC 2023) \n
 [Paper] [Project Page]
 ~~~
-
-{}{img_left}{ISCAS2023.jpg}{paper}{200}{100}
+{}{img_left}{ISCAS2023.png}{paper}{200}{100}
 Real-time Traffic Monitor in Encrypted Wireless Communication Network \n
-~
-Yongming Chen, *Yuzhou Tong*, Gwee Bah Hwee, Qi Cao, Sirajudeen Gulam Razul, Zhiping Lin
-The 56th IEEE International Symposium on Circuits and Systems (ISCAS 2023)
+Yongming Chen, *Yuzhou Tong*, Gwee Bah Hwee, Qi Cao, Sirajudeen Gulam Razul, Zhiping Lin \n
+The 56th IEEE International Symposium on Circuits and Systems (ISCAS 2023) \n
 [Paper]
 ~~~
-
-{}{img_left}{ICIEA2023.jpg}{paper}{200}{100}
+{}{img_left}{ICIEA2023.png}{paper}{200}{100}
 Encrypted Mobile Traffic Classification with a Few-shot Incremental Learning Approach \n
-~
-Yongming Chen, *Yuzhou Tong**, Gwee Bah Hwee, Qi Cao, Sirajudeen Gulam Razul, Zhiping Lin
-The 18th IEEE Conference on Industrial Electronics and Applications (ICIEA2023)
+Yongming Chen, *Yuzhou Tong*, Gwee Bah Hwee, Qi Cao, Sirajudeen Gulam Razul, Zhiping Lin \n
+The 18th IEEE Conference on Industrial Electronics and Applications (ICIEA2023) \n
 [Paper] [Project Page]
 ~~~
 = Proceedings
-{}{img_left}{IECON2023.jpg}{paper}{200}{100}
+{}{img_left}{IECON2023.png}{paper}{200}{100}
 A Method for Out-of-Distribution Detection in Encrypted Mobile Traffic Classification \n
-~
-Yuzhou Tong*, Yongming Chen, Gwee Bah Hwee, Qi Cao, Sirajudeen Gulam Razul, Zhiping Lin
-Submitted to the 49th Annual Conference of the IEEE Industrial Electronics Society (IECON 2023)
+*Yuzhou Tong*, Yongming Chen, Gwee Bah Hwee, Qi Cao, Sirajudeen Gulam Razul, Zhiping Lin \n
+Submitted to the 49th Annual Conference of the IEEE Industrial Electronics Society (IECON 2023) \n
 [Project Page]
-~~~
