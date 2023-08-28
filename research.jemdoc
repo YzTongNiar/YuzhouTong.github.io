@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{research}, nofooter
+== Reseach Projects
+
+~~~
+{}{img_left}{DMSP.png}{preview}{270}{180}
+Dynamic Mobile Sensing  Platform (DMSP) \n
+Yuzhou Tong, supervised by Kiran Bacsa and Prof.Eleni Chatzi \n
+Singapore-ETH Center, Future Resilient Systems \n
+- DMPS utilizes mobile sensor for dynamic infrastructure assessment.
+- The approach is real-time, reactive, and cost-efficient.
+- The data collected goes toward the elaboration of a digital twin.
+[https://github.com/YzTongNiar/DMSP/blob/master/wrap%20up%20meeting.pptx Slides] [https://github.com/YzTongNiar/DMSP/blob/master/DMSP%20Manual.md Manual] [https://github.com/YzTongNiar/DMSP Code]
+~~~
